@@ -1,2 +1,3 @@
 # hello-world
-The very first repo of mine
+
+First repo of mine on GitHub. Playing with stuff.
